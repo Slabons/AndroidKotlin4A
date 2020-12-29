@@ -2,7 +2,7 @@ package com.example.androidkotlin4a.injection.injection
 
 import android.content.Context
 import androidx.room.Room
-import com.example.androidkotlin4a.MainViewModel
+import com.example.androidkotlin4a.presentation.main.MainViewModel
 import com.example.androidkotlin4a.data.local.AppDatabase
 import com.example.androidkotlin4a.data.local.DatabaseDao
 import com.example.androidkotlin4a.data.repository.UserRepository

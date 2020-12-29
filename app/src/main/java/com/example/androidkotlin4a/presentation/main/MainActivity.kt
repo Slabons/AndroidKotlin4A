@@ -3,7 +3,6 @@ package com.example.androidkotlin4a.presentation.main
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
-import com.example.androidkotlin4a.MainViewModel
 import com.example.androidkotlin4a.R
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.android.synthetic.main.activity_main.*
