@@ -1,4 +1,4 @@
-package com.example.androidkotlin4a.injection
+package com.example.androidkotlin4a.presentation.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         main_button.setOnClickListener {
-            mainViewModel.onClickedIncrement()
+            mainViewModel.onClickedIncrement(emailUser = "")
         }
 
         mainViewModel.counter.observe(this, Observer {
