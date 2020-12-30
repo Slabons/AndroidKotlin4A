@@ -36,4 +36,4 @@ Le fait que ces features ne soit pas implémentées résultent de tests, d'aides
 
 
 ### Écran d'erreur avec un login inexistant
-<img src="https://github.com/Slabons/AndroidKotlin4A/blob/master/Image_ReadME/Erreur.PNG?raw=true" width="360" height="450" />
+<img src="https://github.com/Slabons/AndroidKotlin4A/blob/master/Image_ReadME/Erreur.PNG?raw=true" width="360" height="250" />
