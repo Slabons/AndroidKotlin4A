@@ -34,5 +34,6 @@ Le fait que ces features ne soit pas implémentées résultent de tests, d'aides
 ### Écran d'accueil
 <img src="https://github.com/Slabons/AndroidKotlin4A/blob/master/Image_ReadME/Accueil.PNG?raw=true" width="360" height="640" />
 
+
 ### Écran d'erreur avec un login inexistant
-<img src="https://github.com/Slabons/AndroidKotlin4A/blob/master/Image_ReadME/Erreur.PNG?raw=true" width="360" height="640" />
+<img src="https://github.com/Slabons/AndroidKotlin4A/blob/master/Image_ReadME/Erreur.PNG?raw=true" width="360" height="450" />
