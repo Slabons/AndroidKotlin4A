@@ -25,7 +25,9 @@ https://github.com/Slabons/AndroidKotlin4A.git
 * Utilisation de la BDD
 * Utilisation d'une API Rest
 * Affichage d'une liste
-  *Le fait que ces features ne soit pas implémentées résultent de tests, d'aides mais surtout de crashs venant de l'application. Alors au lieu de donner un code avec une application qui crash, j'ai préféré ne pas les mettre.
+
+Le fait que ces features ne soit pas implémentées résultent de tests, d'aides mais surtout de crashs venant de l'application. Alors au lieu de donner un code avec une application qui crash, j'ai préféré ne pas les mettre.
+
 
 ## Fonctionnalités
 
